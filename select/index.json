@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "今日から運命！",
+  "base_artist": "SCRAMBLE SMILE",
+  "createdAt": "2026-03-23T00:34:58.469904Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "今日から運命!",
+      "artist": "SCRAMBLE SMILE",
+      "has_synced": false,
+      "path": "select/pl_01_今日から運命!_SCRAMBLE_SMILE.txt"
+    }
+  ]
+}
